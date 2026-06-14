@@ -150,18 +150,9 @@ streamlit run ai-travel-concierge/app.py
 
 ---
 
-## Deploying to Streamlit Community Cloud
+## Live Demo & Preview
 
-Since this repository is fully prepared with a root `requirements.txt` and cross-platform compatible file pathing, you can host it live in a few clicks:
+Experience the AI Travel Concierge in action:
 
-1. Log into [share.streamlit.io](https://share.streamlit.io) using your GitHub account.
-2. Click **New app** and select:
-   - **Repository**: `Karthik-chukkala/AI_Travel_Concierge`
-   - **Branch**: `main`
-   - **Main file path**: `ai-travel-concierge/app.py`
-3. Click **Advanced settings...** at the bottom of the page.
-4. Under **Secrets**, add your NVIDIA API Key in TOML format:
-   ```toml
-   NVIDIA_API_KEY = "your_nvidia_api_key_here"
-   ```
-5. Click **Save** and then **Deploy!**
+* **Live App:** Explore the live deployment on Streamlit Community Cloud here: [AI Travel Concierge Live Demo](https://aitravelconcierge-kae9cvblg6iya8hw2nbei7.streamlit.app/)
+* **Video Walkthrough:** Watch a quick demonstration of the app's features: [[Placeholder for Link]]
