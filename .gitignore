@@ -1,0 +1,21 @@
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore local environment variables and secrets
+.env
+ai-travel-concierge/.env
+.streamlit/
+
+# Ignore local databases and cache files
+ai-travel-concierge/travel_cache.db
+*.db
+
+# Ignore root level large stations.json (duplicated inside data/)
+/stations.json
+
+# Ignore IDE specific files
+.vscode/
+.idea/

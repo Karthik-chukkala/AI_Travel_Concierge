@@ -1,0 +1,502 @@
+https://etrain.info/in
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Indian Railways Reservation Enquiry, IRCTC Booking, PNR Status, Live Running Status, Running History, Schedule, Route Map, Confirmation Chances, Arrival/Departure, Fare, Indian Rail - etrain.info : Complete Railway Information</title>
+	<meta name="description" content="Indian Railways Reservation Enquiry, PNR Status, Live Running Status, Search Trains, Availability, Running History/Statistics, Confirmation Prediction, Train Schedule, Train Route, Route Map, Arrival/Departure, Fare Table, Indian Rail" />
+	<meta name="keywords" content="Indian Railways Reservation Enquiry, IRCTC Booking, PNR Status, Running Status, Running History, Time Table, Train Route, Route Map, Arrival/Departure, Fare Table, Train Statistics, Fare Chart, Train Composition, Indian Rail, etrain.info, erail, etrain, indianrail" />
+	<meta name="custom-title" content="Indian Railways Reservation Enquiry, IRCTC Booking, PNR Status, Live Running Status, Running History, Schedule, Route Map, Confirmation Chances, Arrival/Departure, Fare, Indian Rail - etrain.info : Complete Railway Information" />
+	<meta name="custom-desc" content="Indian Railways Reservation Enquiry, IRCTC Booking, PNR Status, Live Running Status, Search Trains, Availability, Running History/Statistics, Confirmation Prediction, Train Schedule, Train Route, Route Map, Arrival/Departure, Fare Table, Indian Rail" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<link rel="shortcut icon" type="image/png" href="https://etrain.info/images/favicon.png" />
+	<link rel="apple-touch-icon" href="https://etrain.info/images/apple-touch-icon.png"/>
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:site" content="@etraininfo" />
+	<meta name="twitter:title" content="Indian Railways Reservation Enquiry, IRCTC Booking, PNR Status, Live Running Status, Running History, Schedule, Route Map, Confirmation Chances, Arrival/Departure, Fare, Indian Rail - etrain.info : Complete Railway Information : etrain.info" />
+	<meta name="twitter:description" content="Indian Railways Reservation Enquiry, PNR Status, Live Running Status, Search Trains, Availability, Running History/Statistics, Confirmation Prediction, Train Schedule, Train Route, Route Map, Arrival/Departure, Fare Table, Indian Rail" />
+	<meta name="twitter:image" content="https://etrain.info/images/etrain_square.png" />
+	<meta property="fb:app_id" content="182887848460889" /> 
+	<meta property="og:type" content="website" /> 
+	<meta property="og:title" content="Indian Railways Reservation Enquiry, IRCTC Booking, PNR Status, Live Running Status, Running History, Schedule, Route Map, Confirmation Chances, Arrival/Departure, Fare, Indian Rail - etrain.info : Complete Railway Information : etrain.info" /> 
+	<meta property="og:image" content="https://etrain.info/images/etrain_square.png" /> 
+	<meta property="og:description" content="Indian Railways Reservation Enquiry, PNR Status, Live Running Status, Search Trains, Availability, Running History/Statistics, Confirmation Prediction, Train Schedule, Train Route, Route Map, Arrival/Departure, Fare Table, Indian Rail" /> 
+	<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.etrain.info/in"/><link rel="alternate" media="handheld" href="https://m.etrain.info/in"/>	<link type="text/css" id="etraincss" href="https://etrain.info/jscss/etrain.v3.0.12.css" rel="stylesheet" />  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org/",
+      "@type": "MobileApplication",
+      "name": "Tripozo",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "354687"
+      },
+      "applicationCategory": "TravelApplication",
+      "operatingSystem": "Android, iOS"
+    }
+  </script>
+</head>
+<body>
+<div class="wrap">
+  <script>
+    /*Prevent $ Undefined (deferred) START*/ 
+    var _jD = [], $ = function(f){_jD.push(f);};
+    window.addEventListener("DOMContentLoaded", function(){
+      $(function() {
+        $.each(_jD,function(i, f){
+          f();
+        });
+      });
+    })
+    /*Prevent $ Undefined (deferred) ENDS*/ 
+  </script>
+  <script defer src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script>
+    var holiDay = {20260101:'New Year',20260113:'Lohri',20260114:'Makar Sankranti',20260118:'Mauni Amavasya',20260123:'Vasant Panchami',20260126:'Republic Day',20260215:'Mahashivratri',20260217:'Ramadan Begins',20260304:'Holi',20260320:'Jumat-ul-Wida / Eid-Ul-Fitr',20260326:'Ram Navmi',20260331:'Mahavir Jayanti',20260402:'Hanuman Jayanti',20260403:'Good Friday',20260405:'Easter',20260414:'Baishakhi / Hindi New Year / Ambedkar Jayanti / Bohag Bihu',20260419:'Akshay Tritiya',20260502:'Budhdha Purnima',20260527:'Eid-Ul-Adha',20260626:'Muharram',20260716:'Rath Yatra',20260729:'Guru Purnima',20260817:'Naag Panchami',20260815:'Independence Day',20260826:'Onam / Milad-un-Nabi / Id-e-Milab',20260828:'Raksha Bandhan',20260904:'Krishna Janmashtami',20260914:'Ganesh Chaturthi',20261002:'Gandhi Jayanti',20261011:'Navratra Begins',20261019:'Durga Ashtami / Maha Navami',20261020:'Dussehra',20261029:'Karva Chauth',20261106:'Dhan Teras',20261107:'Kali Puja',20261108:'Diwali / Narak Chaturdasi',20261110:'Govardhan Puja',20261111:'Bhai Duj',20261115:'Chhath Puja',20261124:'Guru Nanak Jayanti',20261204:'Hanukkah Begins',20261212:'Hanukkah Ends',20261225:'Christmas Day'};
+    var currenttime = 'June 12, 2026 15:39:39';
+    var cdnprefix = 'https://etrain.info/';
+    var sisterDomains = ['https://tripozo.com','https://m.etrain.info'];
+    var TPZ_API_PREFIX = 'https://www.tripozo.com/api/v1/'; var TPZ_WWW_PREFIX = 'https://www.tripozo.com/'; 
+    var defARP = 60;
+    var curropt = atob('PG9wdGlvbiAgdmFsdWU9J3siciI6MSwicyI6IiYjODM3NzsifScgPklOUjwvb3B0aW9uPjxvcHRpb24gIHZhbHVlPSd7InIiOjAuMDEzOSwicyI6IiQifScgPlVTRDwvb3B0aW9uPjxvcHRpb24gIHZhbHVlPSd7InIiOjAuMDIwNSwicyI6IiQifScgPkFVRDwvb3B0aW9uPjxvcHRpb24gIHZhbHVlPSd7InIiOjAuMDEwOCwicyI6IiZwb3VuZDsifScgPkdCUDwvb3B0aW9uPjxvcHRpb24gIHZhbHVlPSd7InIiOjAuMDEyNiwicyI6IiZldXJvOyJ9JyA+RVVSPC9vcHRpb24+PG9wdGlvbiAgdmFsdWU9J3siciI6MC4wOTgwLCJzIjoiJnllbjsifScgPkNOWTwvb3B0aW9uPjxvcHRpb24gIHZhbHVlPSd7InIiOjEuNTEzLCJzIjoiJnllbjsifScgPkpQWTwvb3B0aW9uPjxvcHRpb24gIHZhbHVlPSd7InIiOjAuNDIwLCJzIjoiJiMzNjQ3OyJ9JyA+VEhCPC9vcHRpb24+');
+    function loadCSS(s){return new Promise(function(r,f){var t=document.createElement("link");t.type="text/css",t.rel="stylesheet",t.href=s,t.onload=function(){r(),window.dispatchEvent(new CustomEvent("cssLoaded",{detail:s}))},t.onerror=function(){f(),window.dispatchEvent(new CustomEvent("cssFailed",{detail:s}))},document.head.append(t)})};
+    function loadScript(s){return new Promise(function(r,f){var n=document.createElement("script");n.type="text/javascript",n.defer=!0,n.src=s,n.onload=function(){r(),window.dispatchEvent(new CustomEvent("scriptLoaded",{detail:s}))},n.onerror=function(){f(),window.dispatchEvent(new CustomEvent("scriptFailed",{detail:s}))},document.head.append(n)})};
+      
+    var STNCNVER = '20251201';var js_v = '3.4.11.0';  </script>
+  <script defer src="https://etrain.info/jscss/etrain.v3.4.11.0.js" type="text/javascript"></script>
+  <!--[if lte IE 8]>
+    <style>
+      #ie-message{background:#C00;text-align:center;border-bottom:1px solid #900;color:#fff;padding:5px;}
+      #ie-message a{color:#fff;}
+    </style>
+    <div id="ie-message">
+      Apologies, etrain.info is not supported by your Browser. Please upgrade to <a href="http://www.getfirefox.com" target="_new">Mozilla Firefox</a> ,<a href="https://www.google.com/chrome/browser/" target="_new">Google Chrome</a> or <a href="http://www.opera.com/" target="_new">Opera</a>.
+    </div>
+  <![endif]-->
+  <style>
+    @media screen and (min-width: 1050px){
+      body { 
+        background: url('https://etrain.info/images/rainbow.jpg') no-repeat left center fixed !important; 
+        background-size: cover !important;
+      }
+    }
+  </style>
+
+  <div class="main-header">
+    <div class="main-container">
+        <div class="pdud2">
+          <a href="https://etrain.info/in" class="f-vcenter">
+            <img class="tpz-logo" src="https://etrain.info/images/tripozo_logo_head.png" style="height:40px;width:auto;"/>
+            <img src="https://etrain.info/images/logo_former_3.png" style="margin-left:15px;height:40px;width:auto;"/>
+          </a>
+        </div>
+        <ul class="head-menu">
+          <li class="menu-item"><a href="https://www.tripozo.com/flights"><i class="icon-flight"></i>Flights</a></li>
+          <li class="menu-item"><a href="https://www.tripozo.com/hotels"><i class="icon-lodging"></i>Hotels</a></li>
+          <li class="menu-item menu-item-selected"><a href="/in"><i class="icon-train"></i>Trains</a></li>
+          <li class="menu-item"><a href="https://www.tripozo.com/buses"><i class="icon-bus"></i>Buses</a></li>
+          <li class="menu-item"><a href="https://www.tripozo.com/metros"><i class="icon-metro"></i>Metros</a></li>
+		      <li class="menu-item"><a href="https://www.tripozo.com/holidays"><i class="icon-holiday"></i>Holidays</a></li>
+          <!-- <li class="menu-item nowrap"><a href="https://www.tripozo.com/bill-payments"><i class="icon-utilities"></i>Bill Payments</a></li> -->
+          <li class="menu-item nowrap"><a href="https://www.tripozo.com/my/bookings"><i class="icon-ticket"></i>My Bookings</a></li>
+          <li class="menu-item nowrap"><a href="https://www.tripozo.com/my/profile"><i class="icon-user"></i>My Account</a></li>
+          <!-- <li class="menu-item menu-login-item signinwrapper" onclick="et.withLogin(); return false;"><i class="icon-login"></i> Sign In</li> -->
+          <!-- <div class="dropmenu signoutwrapper hide">
+            <li class="menu-item menu-login-item"><i class="icon-user"></i>My Account</li>
+              <div class="dropmenu-content">
+                <a href="https://www.tripozo.com/my/bookings"><i class="icon-ticket"></i>My All Bookings</a>
+                <a href="https://www.tripozo.com/my/profile"><i class="icon-user"></i>My Profile</a>
+                <a href="#logout" onclick="et.logOut(); return false;"><i class="icon-logout"></i>Sign Out</a>
+              </div>
+          </div> -->
+        </ul>
+    </div>
+    <!-- <script>
+      window.addEventListener("DOMContentLoaded",function(){
+        $(window).on('loggedIn', function(){ $('.signinwrapper').hide(); $('.signoutwrapper').show(); });
+        $(window).on('loggedOut', function(){ $('.signinwrapper').show(); $('.signoutwrapper').hide(); });
+      });
+    </script> -->
+  </div>
+
+  <div class="panel">
+    <div id="leftbar" class="wd258 pdlr2 pdu2">
+      <div class="borderbottom rnd5 bx1s">
+        <h4 class="coltitle"><a href="#" class="shstnvia fltright pdr3 fs12"><i class="icon-plus"></i>Via</a><i class="icon-railways"></i>Search Trains</h4>
+        <div class="colcont">
+          <form id="bwstnform" onsubmit="return false;">
+            <div class="flexRow">
+              <div class="flexCol flexG1 minW0">
+                <div class="pd2">
+                  <div class="mrgd">
+                    <label for="tbsfi1" style="width:60px;"><i class="icon-train-tunneled"></i>From</label>
+                    <input id="tbsfi1" name="station1" placeholder="Source Station" data-autocomp='{"q":"station","icon":"train-tunneled","target":"input[name=stn1]","ipmlsugg":"station"}'/>
+                  </div>
+                  <input type="hidden" name="stn1"/>
+                </div>
+                <div class="viastnrow pd2" style="display:none;">
+                  <div class="mrgd">
+                    <label for="tbsfi2" style="width:60px;"><i class="icon-train-tunneled"></i>Via</label>
+                    <input id="tbsfi2" name="stationvia" placeholder="Via Station" data-autocomp='{"q":"station","icon":"train-tunneled","target":"input[name=stnvia]","ipmlsugg":"station"}'/>
+                  </div>
+                  <input type="hidden" name="stnvia"/>
+                </div>
+                <div class="pd2">
+                  <div class="mrgd">
+                    <label for="tbsfi3" style="width:60px;"><i class="icon-train-tunneled"></i>To</label>
+                    <input id="tbsfi3" name="station2" placeholder="Destination Station" data-autocomp='{"q":"station","icon":"train-tunneled","target":"input[name=stn2]","ipmlsugg":"station"}'/>
+                  </div>
+                  <input type="hidden" name="stn2"/>
+                </div>	
+              </div>
+              <div class="f-hvcenter">
+                <img style="width:18px;height:35px;" onmouseover="this.style.background='#DDD'; this.style.cursor='pointer';" onmouseout="this.style.background='transparent'" id="exhg" title="Exchange From & To Stations" src="https://etrain.info/images/flip_icon.gif"/>
+              </div>
+            </div>
+            <div class="flexRow">
+              <div class="flexCol flexG1 minW0">
+                <div class="pd2">
+                  <div class="mrgd">
+                    <label for="tbsfi4" style="width:60px;"><i class="icon-calendar" id="dateicon"></i> Date</label>
+                    <input id="tbsfi4" name="date" readonly="readonly" style="position:relative;z-index:1;" placeholder="Select Date" class="datepicker" data-dpo='{"min":0,"max":60,"disDays":[],"format":"{DayName:3}, {Date:2} {MonthName:3} {FullYear}"}'/>
+                  </div>
+                </div>
+                <div class="pd2">
+                  <div class="mrgd">
+                    <label for="tbsfi5" style="width:60px;">Quota</label>
+                    <span class="selectBox">
+                      <select id="tbsfi5" name="quota"><option selected value="GN" >General</option><option  value="TQ" >Tatkal</option><option  value="PT" >Premium Tatkal</option><option  value="LD" >Ladies</option><option  value="SS" >Lower Berth / Sr. Citizen</option><option  value="DF" >Defence</option><option  value="FT" >Foreign Tourist</option><option  value="YU" >Yuva</option><option  value="HP" >Handicapped</option><option  value="DP" >Duty Pass</option><option  value="PH" >Parliament</option></select>
+                    </span>
+                  </div>
+                </div>
+              </div>
+              <div class="f-hvcenter pd2">
+                <button class="btn" type="submit" id="tbssbmtbtn" style="height:54px;width:56px"><i class="icon-search"></i>Get<br>Trains</button>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+      <div class="borderbottom rnd5 bx2s">
+        <h4 class="coltitle"><a href="/pnr-status" style="text-decoration:none;"><i class="icon-vcard"></i>Get PNR Status</a></h4>
+        <div class="colcont">
+          <form id="pnrstatusform" autocomplete="off" onsubmit="return false;">
+            <div class="flexRow pd2">
+              <div class="mrgd mgr2">
+                <label for="pnrid" style="width:55px;"><i class="icon-vcard"></i>PNR</label>
+                <input maxlength="10" name="pnr" id="pnrid" placeholder="PNR Number"/>
+              </div>
+              <button class="btn wAuto pdlrSbtn mgl2" type="submit" id="pnrsbmt" style="height:24px;align-self:center;"><i class="icon-search"></i>Get</button>
+            </div>
+          </form>
+        </div>
+      </div>
+      <div class="borderbottom rnd5 bx3s">
+        <h4 class="coltitle"><i class="icon-train"></i><a href="/train-schedule" style="text-decoration:none;">Train Route</a> / <a href="/live-train-status" style="text-decoration:none;">Running Status</a></h4>
+        <div class="colcont">
+          <form id="trnscheduleform" autocomplete="off" onsubmit="return false;">
+            <div class="pd2">
+              <div class="mrgd">
+                <label for="trainid"><i class="icon-train"></i>Train</label>
+                <input name="trainname" id="trainid" placeholder="Train Name/Number" data-autocomp='{"q":"train","icon":"train","target":"input[name=train]","ipmlsugg":"train"}'/>
+              </div>
+              <input name="train" type="hidden"/>
+            </div>
+            <div class="nowrap flexRow pd2"><button class="btn pdlrSbtn pdud5 mgr2" type="button" id="runstssbmt"><i class="icon-search"></i>Running Status</button><button class="btn pdlrSbtn pdud5 mgl2" type="button" id="sdlesbmt"><i class="icon-search"></i>Get Route</button></div>
+          </form>
+        </div>
+      </div>
+      <div class="borderbottom rnd5 bx4s">
+        <h4 class="coltitle"><i class="icon-railways"></i>Arrival/Departure at Station</h4>
+        <div class="colcont">
+          <form id="stationform" onsubmit="return false;">
+            <div class="pd2">
+              <div class="mrgd">
+                  <label for="rsfi2" style="width:82px;"><i class="icon-train-tunneled"></i>At Station</label>
+                  <input id="rsfi2" name="station" placeholder="Station Name/Code" data-autocomp='{"q":"station","icon":"train-tunneled","target":"input[name=stn]","ipmlsugg":"station"}'/>
+              </div>
+              <input type="hidden" name="stn"/>
+            </div>
+            <div class="flexRow pd2">
+              <div class="f-hvcenter flexG1">
+                <div class="mrgd" style="height:22px;">
+                  <div><input type="radio" class="radioCheckBox" name="stnqt" value="all" id="stnselall" checked="checked"><label for="stnselall">ALL</label></div>
+                  <div><input type="radio" class="radioCheckBox" name="stnqt" value="live" id="stnsellive"><label for="stnsellive">LIVE</label></div>
+                </div>
+              </div>
+              <div>
+                <button class="btn pdlrSbtn pdud5" type="submit" id="stnsbmtbtn"><i class="icon-search"></i>Get Trains</button>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+      <div class="borderbottom rnd5 bx0s">
+        <h4 class="coltitle"><a href="/current-booking" style="text-decoration:none;"><i class="icon-tag"></i>Current Booking Availability</a></h4>
+        <div class="colcont">
+          <form id="cbaform" onsubmit="return false;">
+            <div class="pd2">
+              <div class="mrgd">
+                  <label for="cbafi1" style="width:82px;"><i class="icon-train-tunneled"></i>At Station</label>
+                  <input id="cbafi1" name="cbastation1" placeholder="Station Name/Code" data-autocomp='{"q":"station","icon":"train-tunneled","target":"input[name=cbastn1]","ipmlsugg":"station"}'/>
+              </div>
+              <input type="hidden" name="cbastn1"/>
+            </div>
+            <div class="pd2">
+              <div class="mrgd">
+                  <label for="cbafi2" style="width:82px;"><i class="icon-train-tunneled"></i>Going To</label>
+                  <input id="cbafi2" name="cbastation2" placeholder="Station Name/Code" data-autocomp='{"q":"station","icon":"train-tunneled","target":"input[name=cbastn2]","ipmlsugg":"station"}'/>
+              </div>
+              <input type="hidden" name="cbastn2"/>
+            </div>
+            <div class="flexRow pd2">
+              <button class="btn flexG1 pdud5" type="submit" id="cbasbmtbtn"><i class="icon-search"></i>Get Current Booking Availability</button>
+            </div>
+          </form>
+        </div>
+      </div>
+      <div class="borderbottom rnd5 bx5s">
+        <h4 class="coltitle"><i class="icon-trash h-gold fltright" id="clearallhistory" title="Delete All Search History"></i><i class="icon-doc"></i> Recent Search History</h4>			
+        <div class="colcont" style="height:90px;overflow-x:hidden;overflow-y:auto;padding:0;">
+          <div class="brhistory">
+            <div><i class="icon-info-circled"></i>No Recent Search History.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="flexCol wd1012 pdlr2 pdu2">
+      <!-- <div class="header">
+        <div class="flexRow">
+          <div class="flexG1"><marquee class="flexCol bold" behavior="alternate" scrollamount="2">Welcome to etrain.info :-)</marquee></div>
+          <div style="display:flex;justify-content:flex-end;width:165px" id="servertime">12-Jun-2026 15:39:39 IST</div>
+        </div>
+      </div> -->
+      <div id="upperdata"></div>
+      <div class="midheader rnd5" style="padding:4px;">
+        <div class="flexRow">
+          <div id="ajaxloader" class="bold flexG1 f-vcenter" style="width:198px;border-right:1px solid #d4b085;">
+            <span style="color:#666;"><img class="icon" src="https://etrain.info/images/ajax_loader.svg"/> Loading, Please Wait...</span>
+          </div>
+          <div class="center bold pdlr5 f-hvcenter" style="line-height:10px;font-size:11px;color:#b57426;">Quick<br>Menu</div>
+          <div class="pdlr5">
+            <div class="mrgd wd470">
+              <label for="bartrainid"><i class="icon-train"></i></label>
+              <input id="bartrainid" name="trainname" placeholder="Train Name / No." data-autocomp='{"q":"train","icon":"train","target":"input[name=train]","ipmlsugg":"train"}'/>
+              <input name="train" type="hidden"/>
+              <a href="#" id="trnrtelnk" class="mrgd-btn">Train Route</a>
+              <a href="#" id="runstslnk" class="mrgd-btn">Running Status</a>
+              <a href="#" id="routemaplnk" class="mrgd-btn">Route Map</a>
+            </div>
+          </div>
+          <div>
+            <div class="mrgd wd275">
+              <label for="pnrbarid"><i class="icon-vcard"></i></label>
+              <input maxlength="10" name="pnr" id="pnrbarid" placeholder="Type PNR"/>
+              <a href="#" id="pnrbarlnk" class="mrgd-btn">Get PNR</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="flexRow flexG1">
+        <div id="lowerdata" class="wd660 flexCol">	<div class="lh-extra">
+                        <div class="borderbottom pd5">
+                          <h4 class="coltitle fs14 txt-center">You have multiple reason to Book IRCTC Train Tickets with Tripozo</h4>
+                          <div class="pd5 bx1_bgl bold fs14 txt-center">
+                            <i class="icon-irctc"></i>IRCTC Authorised Partner
+                          </div>
+                          <div class="row">
+                            <div class="pd5 col-6 flexRow">
+                              <div class="f-hvcenter fs20"><i class="icon-search"></i></div>
+                              <div class="flexG1 pdl5">
+                                  <div class="fs14">Smart Suggestion</div>
+                                  <div>
+                                    We automatically suggest you alternate train in case of non-availability of confirmed seats.
+                                  </div>
+                              </div>
+                            </div>  
+                            <div class="pd5 col-6 flexRow">
+                              <div class="f-hvcenter fs20"><i class="icon-flash-outline"></i></div>
+                              <div class="flexG1 pdl5">
+                                  <div class="fs14">Confirmation Probability</div>
+                                  <div>
+                                    AI powered confirmation probability alerts you about confirmation chances of waitlist tickets. 
+                                  </div>
+                              </div>
+                            </div>  
+                            <div class="pd5 col-6 flexRow">
+                              <div class="f-hvcenter fs20"><i class="icon-bell"></i></div>
+                              <div class="flexG1 pdl5">
+                                  <div class="fs14">Live Train Status</div>
+                                  <div>
+                                    Get live train status and updates for your bookings made with us.
+                                  </div>
+                              </div>
+                            </div>  
+                            <div class="pd5 col-6 flexRow">
+                              <div class="f-hvcenter fs20"><i class="icon-chart-line"></i></div>
+                              <div class="flexG1 pdl5">
+                                  <div class="fs14">Train Punctuality Report</div>
+                                  <div>
+                                    See punctuality report for your train before planinng your journey.
+                                  </div>
+                              </div>
+                            </div>
+                            <div class="pd5 col-6 flexRow">
+                              <div class="f-hvcenter fs20"><i class="icon-rupee-refund"></i></div>
+                              <div class="flexG1 pdl5">
+                                  <div class="fs14">Instant Refunds</div>
+                                  <div>
+                                    No more waiting for refunds on cancellations. Get IRCTC refunds instantly on your account.
+                                  </div>
+                              </div>
+                            </div>  
+                            <div class="pd5 col-6 flexRow">
+                              <div class="f-hvcenter fs20"><i class="icon-headphone"></i></div>
+                              <div class="flexG1 pdl5">
+                                  <div class="fs14">Superior Support</div>
+                                  <div>
+                                    Our dedicated support team is always available to assist you and solve your travel issues.
+                                  </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+											</div>
+                      <div class="borderbottom etSlider">
+                        <h4 class="coltitle"><i class="icon-list"></i>Miscellaneous Links</h4>
+                        <div class="flexRow pdud5">
+                          <div class="flexG1">
+                            <a class="blocklink round" href="/train-history"><i class="icon-chart-line"></i>Train Running History</a>
+                            <a class="blocklink round" href="/page/seatmap"><i class="icon-seat"></i>Seat Map / Coach Layout</a>
+                            <a class="blocklink round" href="/transit"><i class="icon-search"></i>Find All Transit (VIA) Stations</a>
+                          </div>
+                          <div class="flexG1">
+                            <a class="blocklink round" href="/page/calendar"><i class="icon-date"></i>Indian Festival Calendar</a>
+                            <a class="blocklink round" href="/privacypolicy"><i class="icon-flag-checkered"></i>Privacy Policy</a>
+                            <a class="blocklink round" href="/help"><i class="icon-list"></i>Help Contents</a>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="borderbottom etSlider">
+                        <h4 class="coltitle"><i class="icon-help-circled"></i>IRCTC Train Ticket Booking FAQs</h4>
+                        <div class="flexCol pdud5 lh-extra">
+                          <div class="pd5">
+                            <div class="pdd2"><b>Q)</b> Why should I book train tickets with Tripozo?</div>
+                            <div><b>A)</b> Tripozo provides train alternates and IRCTC ticket confirmation prediction to assist you to get confirm IRCTC tickets online. In addition, information like Live Train Status, Historical Running Status of train, Confirmation Probability for waitlist PNR & more. Tripozo (formerly etrain.info) is your one stop solution for everything related to Indian Railways Information and train bookings.</div>
+                          </div>
+                          <div class="pd5">
+                            <div class="pdd2"><b>Q)</b> How many people can I book in a single train ticket booking?</div>
+                            <div><b>A)</b> You are allowed to book upto 6 passengers on a single train ticket booking. For tatkal train ticket booking, the maximum number is 4 persons per booking. Two children below 5 years are allowed per booking, but not ticketed.</div>
+                          </div>
+                          <div class="pd5">
+                            <div class="pdd2"><b>Q)</b> What are the meaning of RAC, GNWL, PQWL, RLWL and TQWL in Railway Reservation?</div>
+                            <div><b>A)</b> There are multiple waitlist status for IRCTC train ticket booking, refer <a href="/page/abouttickets">detailed explanation</a> to know more about waitlist and abbrevations used in IRCTC ticket booking.</div>
+                          </div>
+                          <div class="pd5">
+                            <div class="pdd2"><b>Q)</b> For how many days in advance can you book train tickets?</div>
+                            <div><b>A)</b> Advance Reservation Period (abbrevated as ARP) for booking train tickets is 60 days (excluding the date of journey).</div>
+                          </div>
+                          <div class="pd5">
+                            <div class="pdd2"><b>Q)</b> What documents are required while booking IRCTC train tickets online?</div>
+                            <div><b>A)</b> Indian passengers are not required any ID details while booking. However, passengers of other countries are required to input their Passport number while booking IRCTC train tickets online. During the journey, all passengers must carry at least one valid ID, like, Aadhar card, driving license, pan card, voter id card, etc.</div>
+                          </div>
+                          <div class="pd5">
+                            <div class="pdd2"><b>Q)</b> Can I travel without printout and show train ticket on mobile?</div>
+                            <div><b>A)</b> Yes, An M-ticket will be sent post booking, which helps you save paper without having to take printouts. Upon checking you can show M-Tickets.</div>
+                          </div>
+                          <div class="pd5">
+                            <div class="pdd2"><b>Q)</b> Will I get a refund on cancellation?</div>
+                            <div><b>A)</b> Tripozo provides INSTANT REFUND on IRCTC tickets cancellations. Refund amount shall be automatically credited to the user’s account used at the time of booking. Visit <a target="_blank" href="http://www.indianrail.gov.in/enquiry/StaticPages/StaticEnquiry.jsp?StaticPage=refund_Rules.html&locale=en">Refund Rules</a> for more details about cancellation charges and refund rules.</div>
+                          </div>
+                        </div>
+                      </div>
+                      </div>
+        <div class="flexCol flexG1" style="padding-left:4px;">
+          <div class="flexG1 borderbottom rnd5 bx0_brd">
+            <div style="position: sticky; top:2px" class="pdd5">
+              <div class="pendingBookingContainer pdlr5"></div>
+                            <a href="https://www.tripozo.com/my/bookings#view=upcoming" class="blocklink round mglr0"><i class="icon-ticket"></i>Upcoming Bookings</a>
+              <a href="https://www.tripozo.com/my/bookings#view=completed" class="blocklink round mglr0"><i class="icon-doc-text"></i>Completed Bookings</a>
+              <a href="https://www.tripozo.com/my/bookings#view=all" class="blocklink round mglr0"><i class="icon-doc-text"></i>Transaction History</a>
+            </div>
+            <!-- <iframe class="sisterFrames" src="https://www.tripozo.com/userStore.html" style="display:none;"></iframe> -->
+          </div>
+          <div class="borderbottom">
+            <img src="https://etrain.info/images/DownloadApp_SQ.png" style="display:block;" usemap="#image-map"/>
+            <map name="image-map">
+                <area target="_blank" alt="Get it on Play Store" href="https://play.google.com/store/apps/details?id=info.etrain.in" coords="149,243,13,204" shape="rect">
+                <area target="_blank" alt="Download on the App Store" href="https://apps.apple.com/in/app/indian-railways-information/id1578003586" coords="16,250,148,291" shape="rect">
+            </map>
+          </div>
+          <div>
+            <div>
+              <p class="fs14 pd5 bold" style="background-color: #EEE; color:#666">Useful Links</p>
+              <div class="pdud5">
+                <a class="blocklink inlineblk round" href="/page/calendar">Holiday Calendar</a>
+                <a class="blocklink inlineblk round" href="/contactus">Contact Us</a>
+                <a class="blocklink inlineblk round" href="#reporterror" id="ajaxlnk" name="reporterror" onclick="return false;">Report Error</a>
+                <a class="blocklink inlineblk round" href="/help">Help</a>
+                <a class="blocklink inlineblk round" href="/page/faqs">FAQs</a>
+                <a class="blocklink inlineblk round" href="/about">About</a>
+                <a class="blocklink inlineblk round" href="https://www.tripozo.com/page/refundpolicy">Refund Policy</a>
+              </div>
+            </div>
+            <div>
+              <p class="fs14 pdlr5 pdud2 bold" style="background-color: #EEE; color:#666">Connect With Us</p>
+              <div class="pdud5">
+                <a class="blocklink inlineblk round" href="https://www.facebook.com/TripozoIN" target="_blank"><i class="icon-facebook"></i></a>
+                <a class="blocklink inlineblk round" href="https://twitter.com/Tripozo" target="_blank"><i class="icon-twitter"></i></a>
+                <a class="blocklink inlineblk round" href="https://www.youtube.com/channel/UCt7m2Ymp5vMwE5880ZN_Y8A" target="_blank"><i class="icon-youtube"></i></a>
+                <a class="blocklink inlineblk round" href="https://www.linkedin.com/company/Tripozo" target="_blank"><i class="icon-linkedin"></i></a>
+              </div>
+            </div>
+            <div>
+              <p class="fs14 pd5 bold" style="background-color: #EEE; color:#666">Security and Payment Methods</p>
+              <div class="pdud5">
+                <span class="payicons nb mglr2 mgud2"></span>
+                <span class="payicons upi mglr2 mgud2"></span>
+                <span class="payicons rupay mglr2 mgud2"></span>
+                <span class="payicons visa mglr2 mgud2"></span>
+                <span class="payicons master mglr2 mgud2"></span>
+              </div>
+            </div>
+            <div class="txt-center pdu5">Formerly etrain.info</div>
+            <div class="txt-center pdud5">&copy;2026 Tripozo Private Limited</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+    function delayedAdLoad(){
+      setTimeout(function(){
+        var element = document.createElement("script");
+        element.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js";
+        document.body.appendChild(element);
+      }, 3000);
+    }
+    if (window.addEventListener) window.addEventListener("load", delayedAdLoad, false);
+    else if (window.attachEvent) window.attachEvent("onload", delayedAdLoad);
+    else window.onload = delayedAdLoad;
+  </script>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-LYZWXSTR00"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'G-LYZWXSTR00');
+	</script>
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-28611910-1', 'etrain.info');
+    ga('send', 'pageview');
+  </script>
+  <div id="dummyid"></div>
+</div>
+</body>
+</html>
